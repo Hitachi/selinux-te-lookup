@@ -146,7 +146,7 @@ prune = /proc
 
 config.iniとコマンドライン引数が重複して設定されている場合は、コマンドライン引数が優先されます。
 
-#Contributing
+# Contributing
 バグレポート、バグフィックス、および改善に貢献してくださったことに感謝します。
 ## Bug Report
 不具合があった場合はIssueから報告してください。

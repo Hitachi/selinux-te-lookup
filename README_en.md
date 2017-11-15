@@ -160,7 +160,7 @@ prune = /proc
 
 If settings duplicate between config.ini and command-line arguments, command-line arguments is prefered.
 
-#Contributing
+# Contributing
 We are grateful for contributing bug reports, bugfixes and improvements.
 ## Bug Report
 Please open a new issue.
