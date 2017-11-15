@@ -160,9 +160,13 @@ prune = /proc
 
 If settings duplicate between config.ini and command-line arguments, command-line arguments is prefered.
 
-# Contribution
-TODO
+#Contributing
+We are grateful for contributing bug reports, bugfixes and improvements.
+## Bug Report
+Please open a new issue.
 
+## Bugfixes and Improvements
+Please open a new pull request.
 
 # License
 Copyright (c) 2017 Hitachi, Ltd. All Rights Reserved.

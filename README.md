@@ -146,9 +146,13 @@ prune = /proc
 
 config.iniとコマンドライン引数が重複して設定されている場合は、コマンドライン引数が優先されます。
 
-# Contribution
-TODO
+#Contributing
+バグレポート、バグフィックス、および改善に貢献してくださったことに感謝します。
+## Bug Report
+不具合があった場合はIssueから報告してください。
 
+## Bugfixes and Improvements
+修正・機能追加はPull Requestで報告してください。
 
 # License
 Copyright (c) 2017 Hitachi, Ltd. All Rights Reserved.
